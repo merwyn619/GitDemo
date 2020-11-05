@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13662" started-at="2020-09-17T17:46:40 IST" finished-at="2020-09-17T17:46:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13662" started-at="2020-09-17T17:46:40 IST" finished-at="2020-09-17T17:46:53 IST">
+      <class name="qaclickacademy.Loginapplication">
+        <test-method status="PASS" signature="Login()[pri:0, instance:qaclickacademy.Loginapplication@6895a785]" name="Login" duration-ms="13601" started-at="2020-09-17T17:46:40 IST" finished-at="2020-09-17T17:46:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- qaclickacademy.Loginapplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
